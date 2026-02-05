@@ -1,6 +1,6 @@
 # Representation-Geometry-as-a-Diagnostic-for-Out-of-Distribution-Robustness
 
-## Overview
+Summary
 
 In this article, we conducted a research to investigate how geometric and topological properties of learned representation spaces relate to robustness under distribution shift. Rather than relying solely on predictive performance, we study whether intrinsic structural characteristics of deep embeddings can serve as reliable diagnostics for out-of-distribution (OOD) generalization.
 
